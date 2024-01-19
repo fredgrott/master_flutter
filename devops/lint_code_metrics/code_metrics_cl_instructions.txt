@@ -1,0 +1,4 @@
+from command line, type:
+
+
+dart run dart_code_linter:metrics analyze lib -o reports/code_metrics -r html
